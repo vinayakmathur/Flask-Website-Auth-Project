@@ -28,10 +28,3 @@ Built using Flask, Jinja2 templates, and SQLAlchemy for database management.
 | **Templating Engine** | Jinja2 |
 
 ---
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
